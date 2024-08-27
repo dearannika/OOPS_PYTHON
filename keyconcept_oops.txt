@@ -1,0 +1,10 @@
+Key Concepts in OOP:
+
+Class: A blueprint for creating objects (a particular data structure).
+Object: An instance of a class.
+Attributes: Properties of an object, usually variables.
+Methods: Functions associated with an object that can manipulate its attributes.
+Encapsulation: Hiding the internal state of the object and requiring all interaction to be performed through methods.
+Inheritance: Mechanism by which one class can inherit properties and methods from another class.
+Polymorphism: Ability to process objects differently based on their class or data type.
+Abstraction: Simplifying complex reality by modeling classes appropriate to the problem
